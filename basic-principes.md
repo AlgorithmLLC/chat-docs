@@ -21,7 +21,7 @@ Warmed up authentication process (token is present):
   1. Reconnect to socket.io server
   2. [`auth by token`](/socket.io/auth/auth by token.md)
   3. If success, store token for future use
-  
+
 If any of two methods failed, app must request user to provide `username` and `password` credentials.
 
 ## Data gathering
@@ -35,6 +35,5 @@ After that, you should do [Wizard](/wizard.md) checks. If they succeed, do follo
   - get contacts — [`give me users`](/socket.io/user/give me users.md)
   - get groups — [`give me groups`](/socket.io/group/give me groups.md)
   - get dialogs — [`give me dialogs`](/socket.io/dialog/give me dialogs.md)
-  
+
 At this step app is full of user contacts and data and ready for use. 
-  
