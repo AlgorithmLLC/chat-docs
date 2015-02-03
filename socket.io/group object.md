@@ -1,6 +1,6 @@
-### new group object
+### group object
 ```javascript
-new_group = {
+group = {
 	"id":140,
 	"avatar":null,
 	"admin_id":12,
