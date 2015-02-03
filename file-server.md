@@ -12,13 +12,12 @@ storage urls = {
   ,"delete": "http://file-server.birdex.org/file/delete/id/"
 }
 ```
-
-Uuid is UUIDv4. For `put` and `putRaw` actions client app must generate uuid.
-
 File uuid is required for all actions and must be contatinated to url as follows:
 ```
 Action URL = storage url + avatar/attachment uuid.
 ```
+
+Uuid is UUIDv4. For `put` and `putRaw` actions client app must generate uuid.
 
 ### get
 Get file.
