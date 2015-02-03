@@ -13,8 +13,9 @@ storage urls = {
 }
 ```
 
-Uuid is UUIDv4.
-File uuid is required and must be contatinated to url as follows:
+Uuid is UUIDv4. For `put` and `putRaw` actions client app must generate uuid.
+
+File uuid is required for all actions and must be contatinated to url as follows:
 ```
 Action URL = storage url + avatar/attachment uuid.
 ```
