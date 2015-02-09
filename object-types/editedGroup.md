@@ -1,4 +1,4 @@
-### EditedGroup object
+### editedGroup object
 ```javascript
 editedgroup = {
 	// Обновленная группа

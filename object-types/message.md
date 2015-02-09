@@ -62,11 +62,11 @@ message = {
 }
 ```
 
-Message types:
+### `message.type` is one of following:
   - user typed messages:
       - `message.default`
-      - `message.deleted`
       - `message.updated`
+      - `message.deleted`
   - service messages:
       + calls-related:
           - `service.call.audio.missed`
