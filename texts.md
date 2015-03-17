@@ -138,3 +138,35 @@ This document contains text strings used in the clint app.
       + label
         + Далее
   + English
+
+## User link states
+  + link requested
+    + info_label 
+      + Пользователь хочет добавить вас в свой список контактов
+    + button_accept
+      + label
+        + Подтвердить
+    + button_decline
+      + label
+        + Отклонить
+    + button_remove_contact
+      + label
+        + Удалить из контактов
+  + link revoked
+    + info_label 
+      + Авторизация отменена
+    + button_request
+      + label
+        + Запросить авторизацию
+    + button_remove_contact
+      + label
+        + Удалить из контактов
+  + you requested link
+    + info_label 
+      + Пользователю отправлен запрос на авторизацию
+    + button_resend_request
+      + label
+        + Отправить повторно
+    + button_remove_contact
+      + label
+        + Удалить из контактов
