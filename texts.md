@@ -1,6 +1,6 @@
 # texts
 
-This document contains text strings used in the clint app.
+This document contains text strings used in the client app.
 
 ## Auth screen
 
