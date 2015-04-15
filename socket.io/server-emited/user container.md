@@ -2,9 +2,9 @@
 
 ```javascript
 container = {
-  user       : [user]
-  dialogs    : [dialog*]
-  messages   : [message*]
+  user       : {user}
+  dialogs    : [{dialog}*]
+  messages   : [{message}*]
 }
 ```
 
