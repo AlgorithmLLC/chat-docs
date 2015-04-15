@@ -61,7 +61,7 @@
 
 Оповещения об изменении статуса авторизации сервер осуществляет двумя способами.
 
-1. [userlink update`](/socket.io/server-emited/userlink update.md).
+1. [userlink update](/socket.io/server-emited/userlink update.md).
 Этот фрейм используется сервером в случаях изменения `link_status`,
 когда пользователь присутствует у текущего пользователя в контактах,
 но не авторизован. 
