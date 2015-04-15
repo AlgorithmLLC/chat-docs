@@ -3,7 +3,7 @@
 data = {
   user_id : {integer}
   date    : {timestamp}
-  status  : {string}[received|rejected|withdrawn]
+  status  : {string}('received'|'rejected'|'withdrawn')
 }
 ```
 
