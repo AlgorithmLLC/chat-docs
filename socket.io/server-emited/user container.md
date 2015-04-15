@@ -1,7 +1,7 @@
 ### user container(container)
 
 ```javascript
-data = {
+container = {
   user       : [user]
   dialogs    : [dialog*]
   messages   : [message*]
