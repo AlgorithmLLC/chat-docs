@@ -3,7 +3,7 @@
 actionObject = {
   from_user_id : {integer}
   to_user_id   : {integer}
-  action       : {string}[request|accept|reject|withdraw|remove|read]
+  action       : {string}('request'|'accept'|'reject'|'withdraw'|'remove'|'read')
 }
 ```
 
