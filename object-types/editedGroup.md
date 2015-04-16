@@ -13,8 +13,8 @@ editedgroup = {
 		"updated_by":12,
 		"Recipients":
 		{
-			"12":{"id":12,"username":"10002","domain_id":1},
-			"14":{"id":14,"username":"10004","domain_id":1,}
+			"12":{"id":12,"username":"10002","domain_id":1, key:{...}},
+			"14":{"id":14,"username":"10004","domain_id":1, key:{...}}
 		},
 		"Body":	{"id":204,"name":"XiBDRTDLV+U+vWOB2O41wH6MXAiFW2AQ1aTjnSPXawSG6uFx","group_id":139,"recipient_id":12,"nonce":"cyelfuh4QEuKQHuj1HA+bEqq9BaGG42a","key_id":211,"key_from_id":211,"created_at":"2015-02-03 15:36:20","updated_at":"2015-02-03 16:41:48"}
 	},
