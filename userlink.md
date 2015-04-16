@@ -28,30 +28,30 @@
 1. `accepted` - состояние, когда оба пользователя подтвердили авторизацию. Оба пользователя могут писать друг другу.
 1. `withdrawn` - состояние, когда текущий пользователь, либо его собеседник разорвал авторизацию.
 В окне с перепиской отображается уведомление об отмене авторизации.
-<br /><img src=/blob/userlink2.png width=300  />
+<br /><img src=/blob/userlink2.png width=250  />
 1. `received` - состояние, когда текущий пользователь получил запрос на авторизацию от другого пользователя.
 В окне с перепиской отображается уведомление о запрошенной у текущего пользователя авторизации.
-<br /><img src=/blob/userlink1.png width=300  />
+<br /><img src=/blob/userlink1.png width=250  />
 1. `requested` - состояние, когда текущий пользователь запросил авторизацию у другого пользователя.
 В окне с перепиской отображается уведомление о запросе авторизации текущим пользователем.
-<br /><img src=/blob/userlink3.png width=300  />
+<br /><img src=/blob/userlink3.png width=250  />
 1. `rejected` - состояние, когда собеседник отклонил запрос на авторизацию.
 В окне с перепиской отображается уведомление
-<br /><img src=/blob/userlink4.png width=300  />
+<br /><img src=/blob/userlink4.png width=250  />
 
 #### Поиск пользователя
 
 Если на сервере разрешено управление списком контактов, то пользователь может самостоятельно искать других пользователей и отправлять запросы на авторизацию. Поиск осуществляется через поле поиска на экране списка переписок:
-<br /><img src='/blob/3 contacts search results.png' width=300  />
+<br /><img src='/blob/3 contacts search results.png' width=250  />
 
 Если в списке контактов нет искомого пользователя, то появляется кнопка для активации глобального поиска:
-<br /><img src='/blob/5 contacts search with right to add.png' width=300  />
+<br /><img src='/blob/5 contacts search with right to add.png' width=250  />
 
 После нажатия на кнопку активации глобального поиска в результатах поиска выводятся пользователи, которых нет в списке контактов. Запрос результатов поиска с сервера выполняется отправкой фрейма [find contacts](/socket.io/client-emited/userlink/find contacts.md)
-<br /><img src='/blob/6 contacts global search results.png' width=300  />
+<br /><img src='/blob/6 contacts global search results.png' width=250  />
 
 При тапе на контакт из списка, контакту необходимо отпрвить запрос на авторизацию([Изменение статуса авторизации](/userlink.md#Изменение-статуса-авторизации)), после обработки ответа сервера переход на экран диалогов с пользователем:
-<br /><img src=/blob/userlink3.png width=300  />
+<br /><img src=/blob/userlink3.png width=250  />
 
 #### Изменение статуса авторизации
 
@@ -80,14 +80,14 @@ __Примечание__: для подтверждения авторизаци
 В зависимости от того, разрешено на клиенте управление списком контактов или нет, в интерфейсе будут следующие отличия:
 
 1. Меню переписки
-<br /><img src='/blob/dialog_menu2-2.png' width=300  />
+<br /><img src='/blob/dialog_menu2-2.png' width=500  />
 2. Поиск контактов
-<br /><img src='/blob/4-2 contacts search compare.png' width=300  />
+<br /><img src='/blob/4-2 contacts search compare.png' width=500  />
 3. Получение запроса авторизации
-<br /><img src='/blob/userlink1-3' width=300  />
+<br /><img src='/blob/userlink1-3' width=500  />
 4. Отправка запроса авторизации
-<br /><img src='/blob/userlink3-3.png' width=300  />
+<br /><img src='/blob/userlink3-3.png' width=500  />
 5. Авторизация отменена
-<br /><img src='/blob/userlink2-3.png' width=300  />
+<br /><img src='/blob/userlink2-3.png' width=500  />
 6. Авторизация отклонена
-<br /><img src='/blob/userlink4-3.png' width=300  />
+<br /><img src='/blob/userlink4-3.png' width=500  />
