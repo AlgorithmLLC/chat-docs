@@ -19,8 +19,8 @@ editedgroup = {
 		"Body":	{"id":204,"name":"XiBDRTDLV+U+vWOB2O41wH6MXAiFW2AQ1aTjnSPXawSG6uFx","group_id":139,"recipient_id":12,"nonce":"cyelfuh4QEuKQHuj1HA+bEqq9BaGG42a","key_id":211,"key_from_id":211,"created_at":"2015-02-03 15:36:20","updated_at":"2015-02-03 16:41:48"}
 	},
 	// Обновленные диалоги
-	"dialogs":[
-		{
+	"dialogs":{
+		"144":{
 			"id":444,
 			"group_id":139,
 			"created_at":"2015-02-03 15:36:20",
@@ -37,11 +37,11 @@ editedgroup = {
 				"14":{"id":14}
 			}
 		}
-	],
+	},
 	// Сообщения об обновлениях в группе
-	"messages":[
+	"messages":{
 		//Сообщение о добавленных пользователях
-		{
+		"6977": {
 			"id":6977,
 			"dialog_id":444,
 			"edited_at":null,
@@ -58,7 +58,7 @@ editedgroup = {
 			"Creator":{"id":12,"username":"10002","domain_id":1}
 		},
 		// Сообшение о переименовании группы
-		{
+		"6976": {
 			"id":6976,
 			"dialog_id":444,
 			"edited_at":null,
@@ -75,7 +75,7 @@ editedgroup = {
 			"Creator":{"id":12,"username":"10002","domain_id":1}
 		},
 		// Сообщение об исключенных из группы
-		{
+		"6978": {
 			"id":6978,
 			"dialog_id":444,
 			"edited_at":null,
@@ -91,6 +91,6 @@ editedgroup = {
 			"Attachments":[],
 			"Creator":{"id":12,"username":"10002","domain_id":1}
 		}
-	]
+	}
 }
 ```
