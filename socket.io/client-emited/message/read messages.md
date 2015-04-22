@@ -1,8 +1,8 @@
 ### read messages(messageIds, [ack])
 ```javascript
-messageIds = [
-  1, 2, 3
-]
+messageIds = {
+  ids: [1, 2, 3]
+}
 ```
 Marks messages as read.
 
