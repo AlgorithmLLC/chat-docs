@@ -34,11 +34,11 @@
 2. Редактирование названия
 <br /><img src=/blob/groups/2groupadmin_theme.png width=250  />
 3. Меню просмотра аватара
-<br /><img src=/blob/groups/3groupadmin_avatar_menu.png width=250  />
+<br /><img src=/blob/groups/3groupadmin_avatar.png width=250  />
 4. Меню участника группы
-<br /><img src=/blob/groups/4groupadmin_recipients.png width=250  />
+<br /><img src=/blob/groups/4groupadmin_avatarmenu.png width=250  />
 5. Добавление участника группы
-<br /><img src=/blob/groups/5groupadmin_add_recipient.png width=250  />
+<br /><img src=/blob/groups/5groupadmin_usermenu.png width=250  />
 
 Вид карточки для остальных участников
 
