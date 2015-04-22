@@ -33,19 +33,19 @@
 <br /><img src=/blob/groups/1groupadmin_card.png width=250  />
 2. Редактирование названия
 <br /><img src=/blob/groups/2groupadmin_theme.png width=250  />
-3. Меню просмотра аватара
+3. Просмотр аватара
 <br /><img src=/blob/groups/3groupadmin_avatar.png width=250  />
-4. Меню участника группы
+4. Меню управления аватаром
 <br /><img src=/blob/groups/4groupadmin_avatarmenu.png width=250  />
-5. Добавление участника группы
+5. Меню участника группы
 <br /><img src=/blob/groups/5groupadmin_usermenu.png width=250  />
 
 Вид карточки для остальных участников
 
 1. Основной экран
 <br /><img src=/blob/groups/6group_card.png width=250  />
-2. Просмотр аватара
-<br /><img src=/blob/groups/7group_menu.png width=250  />
+2. Меню участника группы
+<br /><img src=/blob/groups/7group_usermenu.png width=250  />
 3. Просмотр аватара
 <br /><img src=/blob/groups/8group_avatar.png width=250  />
 
