@@ -30,22 +30,24 @@
 Вид карточки для администратора группы:
 
 1. Основной экран
-<br /><img src=/blob/groups/groupadmin_card.png width=250  />
-2. Просмотр аватара
-<br /><img src=/blob/groups/groupadmin_avatar.png width=250  />
-3. Меню редактирования аватара
-<br /><img src=/blob/groups/groupadmin_avatar_menu.png width=250  />
+<br /><img src=/blob/groups/1groupadmin_card.png width=250  />
+2. Редактирование названия
+<br /><img src=/blob/groups/2groupadmin_theme.png width=250  />
+3. Меню просмотра аватара
+<br /><img src=/blob/groups/3groupadmin_avatar_menu.png width=250  />
 4. Меню участника группы
-<br /><img src=/blob/groups/groupadmin_recipients.png width=250  />
+<br /><img src=/blob/groups/4groupadmin_recipients.png width=250  />
 5. Добавление участника группы
-<br /><img src=/blob/groups/groupadmin_add_recipient.png width=250  />
+<br /><img src=/blob/groups/5groupadmin_add_recipient.png width=250  />
 
 Вид карточки для остальных участников
 
 1. Основной экран
-<br /><img src=/blob/groups/group_card.png width=250  />
+<br /><img src=/blob/groups/6group_card.png width=250  />
 2. Просмотр аватара
-<br /><img src=/blob/groups/group_avatar.png width=250  />
+<br /><img src=/blob/groups/7group_menu.png width=250  />
+3. Просмотр аватара
+<br /><img src=/blob/groups/8group_avatar.png width=250  />
 
 #### Редактирование группы
 
