@@ -2,7 +2,7 @@
 ```javascript
 message = {
   "message": {
-    "dialog_id":"434"
+    "dialog_id":434
   }
 
   // Зашифрованное тело сообщения, в том числе для отправителя
